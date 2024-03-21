@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+This line was added by Victor A
+This is file 2 for reference - Victor
+
+
+Collaborative work by Emmanuel Eru
+
+=======
 <<<<<< HEAD
 Just refreshing my git knowledge
 =======
@@ -7,3 +15,4 @@ New code for file2
 =======
 awesome
 >>>>>>> meliodas
+>>>>>>> 8b41956e034c3139e22c83889556f913d8d2745f
