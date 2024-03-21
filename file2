@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 Just refreshing my git knowledge
 =======
-This line was added by Victor A
-This is file 2 for reference - Victor
-<<<<<<< HEAD
->>>>>>> de30073155dfd6d0a6f90228718d77240cedb10c
-=======
 New code for file2
+<<<<<<< HEAD
 >>>>>>> 0bfa920749b8dc4d492d2cefe2bf52d73a2a784b
+=======
+awesome
+>>>>>>> meliodas
