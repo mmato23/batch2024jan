@@ -1,5 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My name is Samuel Ogoh and I am just editing this file for the first time
+=======
+Pull Latest Changes:
+- Ensure your local copy is up to date with the remote repository by running `git pull`.
+git pull origin main
+4. Create a New Branch:
+- Create a new branch for your changes using `git branch`.
+git branch <branch_name>
+>>>>>>> 8b0a15023d815d64c50ff92b3e2cc67c88ef93bc
 =======
 This line was added by Victor A
 This is file 1 for reference - Victor
@@ -19,4 +28,8 @@ This is file 1 for reference - Nafiu
 
 >>>>>>> a2b48b9923d4d56bddb38b7e5116293cd72223e4
 New code for file1
+<<<<<<< HEAD
 >>>>>>> 0bfa920749b8dc4d492d2cefe2bf52d73a2a784b
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 8b0a15023d815d64c50ff92b3e2cc67c88ef93bc
