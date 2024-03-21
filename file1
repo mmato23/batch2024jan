@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Pull Latest Changes:
 - Ensure your local copy is up to date with the remote repository by running `git pull`.
 git pull origin main
 4. Create a New Branch:
 - Create a new branch for your changes using `git branch`.
 git branch <branch_name>
+=======
+This line was added by Victor A
+This is file 1 for reference - Victor
+New code for file1
+>>>>>>> refs/remotes/origin/main
