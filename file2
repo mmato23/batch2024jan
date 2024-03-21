@@ -1,3 +1,9 @@
-This line was added by Victor A
-This is file 2 for reference - Victor
+<<<<<< HEAD
+Just refreshing my git knowledge
+=======
 New code for file2
+<<<<<<< HEAD
+>>>>>>> 0bfa920749b8dc4d492d2cefe2bf52d73a2a784b
+=======
+awesome
+>>>>>>> meliodas
