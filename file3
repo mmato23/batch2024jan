@@ -1,4 +1,9 @@
 This line was added by Victor A
 This is file 3 for reference - Victor
+<<<<<<< HEAD
 
 This line was added by Emmanuel Eru in file3.
+=======
+New code for file3
+attempt
+>>>>>>> 8b41956e034c3139e22c83889556f913d8d2745f
